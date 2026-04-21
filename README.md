@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Pallabi
 
-## Data Science student at **Indian Institute of Technology Madras (IIT Madras)**
-## Interested in **Human Psychology & decision-making**
-## Exploring **AI Tools, Data & real-world problem solving**
+* Data Science student at **Indian Institute of Technology Madras (IIT Madras)**
+* Interested in **Human Psychology & decision-making**
+* Exploring **AI Tools, Data & real-world problem solving**
 
 ---
 
