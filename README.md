@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=HI,%20I'M%20PALLABI&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20IIT%20Madras&descAlignY=55&descSize=16"/>
-</p>
-
----
-
 # 👋 Hello, I'm Pallabi
 
 🎓 Data Science student at **Indian Institute of Technology Madras (IIT Madras)**
